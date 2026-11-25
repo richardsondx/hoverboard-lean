@@ -6,7 +6,7 @@ No real hoverboard is proved here. Lean proves only the small models below. The 
 
 ## Visual showcase
 
-![Diamagnetic hoverboard floating over a magnet array](docs/hoverboard-3d-showcase.svg)
+![Diamagnetic hoverboard floating over a magnet array, screenshot from the interactive 3D page](docs/hoverboard-3d-showcase.png)
 
 Try the interactive 3D version: [Diamagnetic hoverboard 3D](https://muse.ai/s/diamagnetic-hoverboard-3d-xua6xkhxutxyx0xy6/H0I15EXB8601mdIEbGT-jGTN2AuN1pncnIR7HngBf_E)
 
