@@ -1,0 +1,8 @@
+'DiamagneticRealToy.U_at_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.U_min' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.U_strict' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.U_gap' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.U_gap_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.realSystem_force_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.realSystem_min' depends on axioms: [propext, Classical.choice, Quot.sound]
+'DiamagneticRealToy.realSystem_strict' depends on axioms: [propext, Classical.choice, Quot.sound]
