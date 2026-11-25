@@ -1,0 +1,8 @@
+'AntiGravityToy.repulsive_implies_negative_energy' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.repulsive_violates_wec' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.repulsive_energy_gap' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.toy_point_repulsive' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.toy_point_density_negative' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.toy_point_violates_wec' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.toy_system_implies_negative' depends on axioms: [propext, Quot.sound]
+'AntiGravityToy.exists_repulsive_exotic_source' depends on axioms: [propext, Quot.sound]
