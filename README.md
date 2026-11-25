@@ -2,19 +2,19 @@
 
 Lean 4 checks of hoverboard levitation claims.
 
-No real hoverboard is proved here. Lean proves only small toy models. The full proofs stay open. Read the Not proved list below first.
+No real hoverboard is proved here. Lean proves only the small models below. The full proofs stay open. Read the Not proved list below first.
 
-## What is a toy?
+## Visual showcase
 
-A toy is a tiny, simplified model that Lean can actually check.
+![Diamagnetic hoverboard floating over a magnet array](docs/hoverboard-3d-showcase.svg)
 
-- The toy uses a square-shaped potential with a minimum.
-- The toy is not the real board.
-- The toy is not the real magnetic field.
-- The toy is not a lab test.
-- A toy proves the shape of one idea, nothing more.
+Try the interactive 3D version: [Diamagnetic hoverboard 3D](https://muse.ai/s/diamagnetic-hoverboard-3d-xua6xkhxutxyx0xy6/H0I15EXB8601mdIEbGT-jGTN2AuN1pncnIR7HngBf_E)
 
-## Showcase
+- Move the sliders to change magnet strength and rider mass.
+- Push the board sideways with the push buttons.
+- Watch it settle back to centre.
+
+## Lean results
 
 - Diamagnetic levitation, Nat toy: U(n) = n*n + 1 has a strict minimum at 0.
 - Diamagnetic levitation, Real toy: U(x) = x^2 + 1 has a strict minimum at 0.
