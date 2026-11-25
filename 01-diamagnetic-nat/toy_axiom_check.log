@@ -1,0 +1,8 @@
+'DiamagneticToy.hoverPotential_at_zero' does not depend on any axioms
+'DiamagneticToy.hoverPotential_min' depends on axioms: [propext, Quot.sound]
+'DiamagneticToy.hoverPotential_strict' depends on axioms: [propext, Quot.sound]
+'DiamagneticToy.hoverPotential_gap' depends on axioms: [propext, Quot.sound]
+'DiamagneticToy.hoverPotential_step' depends on axioms: [propext, Quot.sound]
+'DiamagneticToy.hoverForce_at_zero' does not depend on any axioms
+'DiamagneticToy.hoverForce_law' depends on axioms: [propext, Quot.sound]
+'DiamagneticToy.exists_stable_levitation_toy' depends on axioms: [propext, Quot.sound]
